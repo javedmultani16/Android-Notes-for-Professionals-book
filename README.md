@@ -1,4 +1,5 @@
 # Android-Notes-for-Professionals-book
+![screen shot 2018-08-14 at 2 19 51 pm](https://user-images.githubusercontent.com/16849127/44081823-4ea9598e-9fcd-11e8-908b-595b1b01306e.png)
 
 
     Getting started with Android
